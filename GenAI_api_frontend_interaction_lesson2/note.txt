@@ -1,0 +1,3 @@
+httpx was downgraded to 0.27.2 or else it was giving error
+server has the genai models and is made in the form of fatsapi by Langserve 
+the fastapi is called by the frontend or client application 

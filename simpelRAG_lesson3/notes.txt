@@ -1,0 +1,4 @@
+Cohere Embedding is used here
+The ipynb is run in google colab [ my ipynb kernel was crashing ] 
+different sources were tested to read data
+Chroma DB was used
