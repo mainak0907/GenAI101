@@ -18,7 +18,15 @@ https://chatgpt.com/share/67701118-74c4-800f-abba-d43fec5922f1 - This ChatGPT ch
 ![image](https://github.com/user-attachments/assets/db3db500-20c8-4b08-a239-bbfb8b106540)
 ![image](https://github.com/user-attachments/assets/86d111e4-5369-4cc2-9a23-ba7cd6655b59)
 
-# QLoRA is basically quantized LoRA , parameters are quantized and then LoRA is applied 
+## QLoRA is basically quantized LoRA , parameters are quantized and then LoRA is applied 
+
+## Era of 1-bit LLM [ Research Paper ]
+![image](https://github.com/user-attachments/assets/dbfd97b0-400f-43a4-9d10-83f60cf8636b)
+![image](https://github.com/user-attachments/assets/13b54461-ae0d-4376-84ae-edc5f0897806)
+![image](https://github.com/user-attachments/assets/717de99a-4f5b-438b-910e-1023d159e592)
+![image](https://github.com/user-attachments/assets/44ba91da-fe3a-459b-8adb-c73aad5ee87e)
+![image](https://github.com/user-attachments/assets/8b997bd0-ba64-400a-bdd0-5d080beba53f)
+
 
 
 
