@@ -1,0 +1,4 @@
+Tools are interfaces that are used to interact with real world entities and apps [ some might come inbuilt , also you can create your own ]
+
+The core idea of agents is to use a language model to choose a sequence of actions to take. In chains, a sequence of actions is hardcoded (in code). In agents, a language model is used as a reasoning engine to determine which actions to take and in which order.
+[ It uses a LLM , to decide for a particular query  which tool would be the best ]

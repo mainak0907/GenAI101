@@ -1,0 +1,1 @@
+Made use of stuff document chain and retriever chain , made use of LLM to answer the query
