@@ -10,3 +10,4 @@ GenAI Tools
 ### BharatGPT is used for Hindi Finetuning
 ### Google AI Studio has option for CSV Finetuning
 ### Phidata also has many tools 
+### Hybrid Search in RAG
