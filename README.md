@@ -26,3 +26,4 @@ GenAI Tools
 ### AWS - GENAI 
 ![image](https://github.com/user-attachments/assets/fb6bb47a-eda3-4ea7-92ca-14dee159c66f)
 AWS Cloudwatch for Monitoring and Logging 
+S3 Bucket for Storage
