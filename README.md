@@ -11,5 +11,15 @@ GenAI Tools
 ### Google AI Studio has option for CSV Finetuning
 ### Phidata also has many tools 
 ### Hybrid Search in RAG
+![image](https://github.com/user-attachments/assets/fe2b0e89-d05f-468a-894e-a1aaceb643b9)
+![image](https://github.com/user-attachments/assets/35bf2da5-4dbf-42c5-8044-e475ae26859f)
+![image](https://github.com/user-attachments/assets/f19d0443-fd1d-4c42-a433-df7ba13d7dd6)
+![image](https://github.com/user-attachments/assets/774c8e71-2d34-4c35-8329-82a7ef00c229)
+![image](https://github.com/user-attachments/assets/bb34136c-fcce-4865-a562-38a67ef9223d)
+![image](https://github.com/user-attachments/assets/ab16eafc-98b3-463c-893f-a811cd172696)
+
+
+
+
 ### Vector Database Explanations - https://www.youtube.com/watch?v=dN0lsF2cvm4&t=44s
 ### Learn About GraphRAG 
