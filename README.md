@@ -23,3 +23,6 @@ GenAI Tools
 
 ### Vector Database Explanations - https://www.youtube.com/watch?v=dN0lsF2cvm4&t=44s
 ### Learn About GraphRAG 
+### AWS - GENAI 
+![image](https://github.com/user-attachments/assets/fb6bb47a-eda3-4ea7-92ca-14dee159c66f)
+
