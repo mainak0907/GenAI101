@@ -24,6 +24,7 @@ GenAI Tools
 ### Vector Database Explanations - https://www.youtube.com/watch?v=dN0lsF2cvm4&t=44s
 ### PyDantic AI - https://www.youtube.com/watch?v=qaVIkk9M6Pg
 ### Learn About GraphRAG 
+### Explore this channel - https://www.youtube.com/@AIAnytime 
 ### AWS - GENAI 
 ![image](https://github.com/user-attachments/assets/fb6bb47a-eda3-4ea7-92ca-14dee159c66f)
 AWS Cloudwatch for Monitoring and Logging 
